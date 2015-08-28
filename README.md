@@ -1,0 +1,1 @@
+# docker-nitrogen-couchbase-stub
